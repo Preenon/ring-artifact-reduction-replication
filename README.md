@@ -1,5 +1,5 @@
-# CNN-Based Hybrid Ring Artifact Reduction for CT Images
-### Replication Study — Chen et al., IEEE TRPMS 2020
+# Replicating a CNN-Based Hybrid Ring Artifact Reduction for CT Images
+### Original paper — Chen et al., IEEE TRPMS 2020
 
 A liberal Python reimplementation of the hybrid Wavelet-Fourier + CNN ring artifact reduction algorithm described in:
 
