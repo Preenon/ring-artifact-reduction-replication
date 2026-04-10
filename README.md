@@ -1,9 +1,9 @@
 # Replicating a CNN-Based Hybrid Ring Artifact Reduction for CT Images
-### Original paper — Chen et al., IEEE TRPMS 2020
+### Original paper — Chang et al., IEEE TRPMS 2020
 
 A liberal Python reimplementation of the hybrid Wavelet-Fourier + CNN ring artifact reduction algorithm described in:
 
-> **Y. Chen et al., "A CNN-Based Hybrid Ring Artifact Reduction Algorithm for CT Images,"**  
+> **S. Chang et al., "A CNN-Based Hybrid Ring Artifact Reduction Algorithm for CT Images,"**  
 > *IEEE Transactions on Radiation and Plasma Medical Sciences*, vol. 5, no. 2, pp. 198–206, Mar. 2021.  
 > DOI: [10.1109/TRPMS.2020.2982401](https://ieeexplore.ieee.org/document/9047977)
 
@@ -200,8 +200,8 @@ pip install pydicom numpy scikit-image scipy matplotlib pandas tqdm
 If you use this code, please also cite the original paper:
 
 ```bibtex
-@article{chen2020cnn,
-  author  = {Chen, Yufei and Yin, Xindao and Shi, Lijuan and Shu, Huazhong and Luo, Limin and Coatrieux, Jean-Louis and Toumoulin, Christine},
+@article{chang2021cnn,
+  author  = {S. Chang, X. Chen, J. Duan, and X. Mou},
   title   = {A {CNN}-Based Hybrid Ring Artifact Reduction Algorithm for {CT} Images},
   journal = {IEEE Transactions on Radiation and Plasma Medical Sciences},
   volume  = {5},
